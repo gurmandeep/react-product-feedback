@@ -36,8 +36,13 @@ A **React-based Feedback Portal** that allows users to submit, view and comment 
 
 1. Clone the repository:
 
+```bash
 git clone https://github.com/gurmandeep/react-product-feedback.git
+```
+
+```bash
 cd react-product-feedback
+```
 
 2. Install dependencies:
 
